@@ -1,7 +1,9 @@
 # Week 1 Report — CKBuilder Track
 
 **Period:** August 9 – August 15, 2026
+
 **Participant:** Abdulrasheed Fawole (bolaji1729)
+
 **Track:** Builder
 
 ---
