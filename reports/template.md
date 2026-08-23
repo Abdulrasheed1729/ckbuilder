@@ -1,7 +1,9 @@
 # Week N Report — CKBuilder Track
 
 **Period:** Nervosary 1 – CKemBer 7, 1729
+
 **Participant:** NervosHacker
+
 **Track:** Builder
 
 ---
