@@ -35,6 +35,8 @@ The highlight of this week is starting a project for a custom lock script. I wri
 
 **Links:**
 
+- [zakat-vault](https://github.com/Abdulrasheed1729/zakat-vault)
+
 - [CKB transaction structure RFC (0022)](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0022-transaction-structure/0022-transaction-structure.md)
 
 - [Simple Lock doc tutorial](https://docs.nervos.org/docs/script/rust/rust-example-simple-lock)
