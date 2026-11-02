@@ -71,6 +71,7 @@ In addition, the `ckb-script-size-analyzer` community tool was also ran against 
 
 - [CKB transaction structure RFC (0022)](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0022-transaction-structure/0022-transaction-structure.md)
 
+- [`ckb-script-size-analyzer`](https://github.com/nervosnetwork/ckb-vm-contrib/tree/main/ckb-script-size-analyzer)
 ---
 
 ## Blockers
