@@ -37,6 +37,9 @@ In addition, I also explored the Spore protocol and Fiber network.
 - Testnet Deployment
 ![Testnet Deployment](./images/testnet-deploy.png)
 
+- Nervos Explorer of Deployment
+![Testnet Explorer](./images/testnet-explorer.png)
+
 - CI Running
 ![CI Running](./images/ci-running.png)
 
